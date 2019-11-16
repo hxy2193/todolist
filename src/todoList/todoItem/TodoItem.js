@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import {  List } from 'antd';
-import 'antd/dist/antd.css';
+// import List from 'antd/es/List';
+// import message from 'antd/es/message';
+// import 'antd/dist/antd.less';
 class TodoItem extends Component {
   constructor(props) {
     super(props)
