@@ -1,7 +1,8 @@
 {
-  "name": "jianshu",
+  "name": "todolist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hxy2193.github.io/todolist",
   "dependencies": {
     "antd": "^3.25.1",
     "babel-plugin-import": "^1.12.2",
