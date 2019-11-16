@@ -1,10 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import { Input, message } from 'antd';
-// import Input from 'antd/es/Input';
-// import message from 'antd/es/message';
 import TodoItem from './todoItem/TodoItem'
-// import 'antd/dist/antd.less';
-import './../theme/theme.css'
 import './Todolist.css';
 message.config({
   top: 30,
